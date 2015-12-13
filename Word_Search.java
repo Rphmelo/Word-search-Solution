@@ -33,8 +33,8 @@ public class Word_Search {
 				System.out.println();
 			}
 			
-			/*Váriaveis responsaveis por guardar a posicao, 
-			o sentido e o nome da palavra encontrada na matriz na matriz.*/
+			/*Variáveis responsaveis por guardar a posicao, 
+			o sentido e o nome da palavra encontrada na matriz.*/
 			
 			int[] vetor_linha = new int[cacapalavra.getQtde_Palavras()];
 			int[] vetor_coluna = new int[cacapalavra.getQtde_Palavras()];
