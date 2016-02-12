@@ -1,2 +1,2 @@
 # Word-search-Solution
-It's a simple Word search solution program wrote in Java. 
+It's a simple Word search solution program written in Java. 
